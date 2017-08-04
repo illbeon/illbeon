@@ -1,0 +1,292 @@
+{
+    "city": "Thetford",
+    "items": [
+        {
+            "category": "Resources",
+            "description": "Advanced material used for crafting. It can be created from a base material.",
+            "listings": [
+                {
+                    "price": 66,
+                    "quantity": 134
+                },
+                {
+                    "price": 68,
+                    "quantity": 490
+                },
+                {
+                    "price": 69,
+                    "quantity": 457
+                },
+                {
+                    "price": 71,
+                    "quantity": 756
+                },
+                {
+                    "price": 72,
+                    "quantity": 999
+                }
+            ],
+            "name": "Neat Cloth",
+            "tier": 3
+        },
+        {
+            "category": "Resources",
+            "description": "Base material used for crafting. It can be changed to a better material.",
+            "listings": [
+                {
+                    "price": 25,
+                    "quantity": 196
+                },
+                {
+                    "price": 25,
+                    "quantity": 428
+                },
+                {
+                    "price": 26,
+                    "quantity": 252
+                },
+                {
+                    "price": 28,
+                    "quantity": 148
+                },
+                {
+                    "price": 29,
+                    "quantity": 596
+                }
+            ],
+            "name": "Flax",
+            "tier": 3
+        },
+        {
+            "category": "Resources",
+            "description": "Wood, used for crafting. It can be changed to a better material.",
+            "listings": [
+                {
+                    "price": 36,
+                    "quantity": 60
+                },
+                {
+                    "price": 36,
+                    "quantity": 169
+                },
+                {
+                    "price": 36,
+                    "quantity": 464
+                },
+                {
+                    "price": 37,
+                    "quantity": 533
+                },
+                {
+                    "price": 38,
+                    "quantity": 999
+                }
+            ],
+            "name": "Chestnut Logs",
+            "tier": 3
+        },
+        {
+            "category": "Resources",
+            "description": "Advanced material used for crafting. It can be created from a base material.",
+            "listings": [
+                {
+                    "price": 83,
+                    "quantity": 110
+                },
+                {
+                    "price": 84,
+                    "quantity": 227
+                },
+                {
+                    "price": 85,
+                    "quantity": 999
+                },
+                {
+                    "price": 85,
+                    "quantity": 559
+                },
+                {
+                    "price": 85,
+                    "quantity": 647
+                }
+            ],
+            "name": "Chestnut Planks",
+            "tier": 3
+        },
+        {
+            "category": "Resources",
+            "description": "An unique building ingredient for the Explorer's House",
+            "listings": [],
+            "name": "Explorer's Anchor",
+            "tier": 3
+        },
+        {
+            "category": "Resources",
+            "description": "Stone, used for crafting. It can be changed to a better material.",
+            "listings": [
+                {
+                    "price": 59,
+                    "quantity": 16
+                },
+                {
+                    "price": 59,
+                    "quantity": 656
+                },
+                {
+                    "price": 60,
+                    "quantity": 93
+                },
+                {
+                    "price": 60,
+                    "quantity": 79
+                },
+                {
+                    "price": 60,
+                    "quantity": 130
+                }
+            ],
+            "name": "Sandstone",
+            "tier": 3
+        },
+        {
+            "category": "Resources",
+            "description": "Advanced material used for crafting. It can be created from a base material.",
+            "listings": [
+                {
+                    "price": 119,
+                    "quantity": 880
+                },
+                {
+                    "price": 119,
+                    "quantity": 486
+                },
+                {
+                    "price": 119,
+                    "quantity": 471
+                },
+                {
+                    "price": 120,
+                    "quantity": 999
+                },
+                {
+                    "price": 120,
+                    "quantity": 320
+                }
+            ],
+            "name": "Sandstone Block",
+            "tier": 3
+        },
+        {
+            "category": "Resources",
+            "description": "Ore, used for crafting. It can be changed to a better material.",
+            "listings": [
+                {
+                    "price": 25,
+                    "quantity": 187
+                },
+                {
+                    "price": 25,
+                    "quantity": 151
+                },
+                {
+                    "price": 26,
+                    "quantity": 642
+                },
+                {
+                    "price": 27,
+                    "quantity": 27
+                },
+                {
+                    "price": 28,
+                    "quantity": 48
+                }
+            ],
+            "name": "Tin Ore",
+            "tier": 3
+        },
+        {
+            "category": "Resources",
+            "description": "Advanced material used for crafting. It can be created from a base material.",
+            "listings": [
+                {
+                    "price": 73,
+                    "quantity": 483
+                },
+                {
+                    "price": 74,
+                    "quantity": 437
+                },
+                {
+                    "price": 75,
+                    "quantity": 75
+                },
+                {
+                    "price": 76,
+                    "quantity": 385
+                },
+                {
+                    "price": 76,
+                    "quantity": 999
+                }
+            ],
+            "name": "Bronze Bar",
+            "tier": 3
+        },
+        {
+            "category": "Resources",
+            "description": "Hide, used for crafting. It can be changed to a better material.",
+            "listings": [
+                {
+                    "price": 36,
+                    "quantity": 10
+                },
+                {
+                    "price": 37,
+                    "quantity": 10
+                },
+                {
+                    "price": 37,
+                    "quantity": 53
+                },
+                {
+                    "price": 39,
+                    "quantity": 26
+                },
+                {
+                    "price": 39,
+                    "quantity": 48
+                }
+            ],
+            "name": "Thin Hide",
+            "tier": 3
+        },
+        {
+            "category": "Resources",
+            "description": "Advanced material used for crafting. It can be created from a base material.",
+            "listings": [
+                {
+                    "price": 90,
+                    "quantity": 572
+                },
+                {
+                    "price": 93,
+                    "quantity": 359
+                },
+                {
+                    "price": 97,
+                    "quantity": 279
+                },
+                {
+                    "price": 98,
+                    "quantity": 10
+                },
+                {
+                    "price": 98,
+                    "quantity": 54
+                }
+            ],
+            "name": "Thick Leather",
+            "tier": 3
+        }
+    ]
+}
