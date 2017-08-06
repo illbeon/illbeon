@@ -1,0 +1,33 @@
+{
+    "city": "Fort Sterling",
+    "items": [
+        {
+            "category": "Products",
+            "description": "Carrots are used in a variety of foods",
+            "listings": [
+                {
+                    "price": 123,
+                    "quantity": 82
+                },
+                {
+                    "price": 123,
+                    "quantity": 217
+                },
+                {
+                    "price": 124,
+                    "quantity": 10
+                },
+                {
+                    "price": 125,
+                    "quantity": 20
+                },
+                {
+                    "price": 125,
+                    "quantity": 17
+                }
+            ],
+            "name": "Carrots",
+            "tier": 1
+        }
+    ]
+}

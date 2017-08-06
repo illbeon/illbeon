@@ -1,0 +1,33 @@
+{
+    "city": "Swamp Cross",
+    "items": [
+        {
+            "category": "Products",
+            "description": "Carrots are used in a variety of foods",
+            "listings": [
+                {
+                    "price": 134,
+                    "quantity": 168
+                },
+                {
+                    "price": 134,
+                    "quantity": 10
+                },
+                {
+                    "price": 135,
+                    "quantity": 28
+                },
+                {
+                    "price": 140,
+                    "quantity": 10
+                },
+                {
+                    "price": 143,
+                    "quantity": 10
+                }
+            ],
+            "name": "Carrots",
+            "tier": 1
+        }
+    ]
+}
